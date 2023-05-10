@@ -1,6 +1,6 @@
 # Advanced Machine Learning for Data Science (Spring 2023)
 
-## RACE Etnciity Classification
+## RACE Etnicity Classification
 
 ### Dataset
 
